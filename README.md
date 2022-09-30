@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @microempire
-- 👀 I’m interested in embedded engineering
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Than Zaw Toe.
+- 👀 I’m interested in embedded engineering and control engineering.
+- 🌱 I’m currently learning C programming,Electronic,C++,Python and computer hardwares.
+- 💞️ I’m looking to collaborate on embedded industry and control industry.
+- 📫 How to reach me ... <microempire37@gmail.com>
 
 <!---
 microempire/microempire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
